@@ -5,3 +5,4 @@ lab04:https://github.com/2303a51898/AIML-2024/blob/main/LAB_AIML_4.ipynb
 lab0s:https://github.com/2303a51898/AIML-2024/blob/main/Assignment_5.ipynb
 lab07:https://github.com/2303a51898/AIML-2024/blob/main/Lab07-SVM.ipynb
 lab06:https://github.com/2303a51898/AIML-2024/blob/main/Lab06-AIML.ipynb
+lab08:https://github.com/2303a51898/AIML-2024/blob/main/AIML%20LAB_08.ipynb
