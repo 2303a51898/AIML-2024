@@ -7,3 +7,4 @@ lab07:https://github.com/2303a51898/AIML-2024/blob/main/Lab07-SVM.ipynb
 lab06:https://github.com/2303a51898/AIML-2024/blob/main/Lab06-AIML.ipynb
 lab08:https://github.com/2303a51898/AIML-2024/blob/main/AIML%20LAB_08.ipynb
 lab09:https://github.com/2303a51898/AIML-2024/blob/main/Lab%2009.ipynb
+lab10:https://github.com/2303a51898/AIML-2024/blob/main/Lab10-AIML.ipynb
